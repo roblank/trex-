@@ -1,2 +1,1 @@
-# trex-
-juego de trex 
+# Juegos-compatibles-con-dispositivos
